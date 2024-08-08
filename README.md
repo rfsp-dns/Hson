@@ -34,11 +34,11 @@ Wait please :]
 
 I executed a little test about storage space and I found some text storage types and the results are:
 
-1st. HSON is 219KB
-2nd. YAML is 230KB
-3rd. JSON is 256KB
-4th. XML is 300KB
-5th. INI is 437KB
+* 1st. HSON is 219KB
+* 2nd. YAML is 230KB
+* 3rd. JSON is 256KB
+* 4th. XML is 300KB
+* 5th. INI is 437KB
 
 ### Break down into end to end tests
 
