@@ -24,7 +24,7 @@ clothes:
 
 ### Prerequisites
 
-For now HSON is not availanle for any type of download
+For now HSON is not available for any type of download
 
 ### Installing
 
