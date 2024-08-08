@@ -51,7 +51,7 @@ Wait please :]
 
 ## Built With
 
-* [Python](https://www.python.org) - TThe Python Programming Language
+* [Python](https://www.python.org) - The Python Programming Language
 
 
 ## Versioning
