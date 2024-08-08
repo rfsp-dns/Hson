@@ -30,7 +30,7 @@ For now HSON is not availanle for any type of download
 
 Wait please :]
 
-## Running the tests
+## The Test
 
 I executed a little test about storage space and I found some text storage types and the results are:
 
@@ -40,7 +40,7 @@ I executed a little test about storage space and I found some text storage types
 * 4th. XML is 300KB
 * 5th. INI is 437KB
 
-### Break down into end to end tests
+### Test Results
 
 The test was conducted using a 256KB JSON file, and the content was converted into various storage formats. I performed this test to evaluate whether my custom text storage solution would use less hard drive space compared to standard formats.
 
