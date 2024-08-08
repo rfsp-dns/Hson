@@ -60,7 +60,7 @@ For now its restricted
 
 ## Authors
 
-* **Me** - *Initial work* - [PurpleBooth](https://github.com/rfsp-dns)
+* **Me** - *Initial work* - [rfsp-dns](https://github.com/rfsp-dns)
 
 
 ## License
