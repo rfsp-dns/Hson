@@ -47,7 +47,7 @@ I executed this test to see if my own text storage will take less storage from t
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Wait please :]
 
 ## Built With
 
