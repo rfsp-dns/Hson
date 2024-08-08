@@ -62,7 +62,7 @@ Wait please :]
 
 ## License
 
-This project does not have any license, wait until its done and release for version 1.0
+This project does not currently have a license. Please wait until it is completed and the 1.0 version is released.
 
 ## Acknowledgments
 
