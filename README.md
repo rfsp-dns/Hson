@@ -28,7 +28,7 @@ For now HSON is not availanle for any type of download
 
 ### Installing
 
-Wating
+Wait please :]
 
 ## Running the tests
 
