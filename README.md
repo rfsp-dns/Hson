@@ -42,8 +42,7 @@ I executed a little test about storage space and I found some text storage types
 
 ### Break down into end to end tests
 
-The test was executed using a 256Kb JSON file and convert all the content for each storage type.
-I executed this test to see if my own text storage will take less storage from the hard drive.
+The test was conducted using a 256KB JSON file, and the content was converted into various storage formats. I performed this test to evaluate whether my custom text storage solution would use less hard drive space compared to standard formats.
 
 ## Deployment
 
@@ -53,15 +52,13 @@ Wait please :]
 
 * [Python](https://www.python.org) - The Python Programming Language
 
-
 ## Versioning
 
-For now its restricted
+Wait please :]
 
 ## Authors
 
-* **Me** - *Initial work* - [rfsp-dns](https://github.com/rfsp-dns)
-
+* **Me** - *All work* - [rfsp-dns](https://github.com/rfsp-dns)
 
 ## License
 
@@ -70,4 +67,3 @@ This project does not have any license, wait until its done and release for vers
 ## Acknowledgments
 
 * Good
-
