@@ -12,12 +12,12 @@ hair :
   color : blue
   type : long, straight
 eyes : blue, sometimes a little bit of ocean blue
-clothes:
-  upper:
-    tshirt:
+clothes :
+  upper :
+    tshirt :
       color : red
     acessories : false
-  down:
+  down :
     jeans :
       color : black
 ```
