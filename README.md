@@ -43,7 +43,7 @@ I executed a little test about storage space and I found some text storage types
 ### Break down into end to end tests
 
 The test was executed using a 256Kb JSON file and convert all the content for each storage type.
-I executed this test to see if my own text storage will be take less storage from the hard drive.
+I executed this test to see if my own text storage will take less storage from the hard drive.
 
 ## Deployment
 
