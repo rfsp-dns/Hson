@@ -1,5 +1,5 @@
 # Hson
-Less storage then Json
+Less storage then Json, almost an Yaml
 
 ## About Hson
 
